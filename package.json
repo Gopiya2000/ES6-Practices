@@ -1,7 +1,7 @@
 {
   "name": "es6-practices",
   "version": "1.0.0",
-  "description": "",
+  "description": "ES6 exploration and implementation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
